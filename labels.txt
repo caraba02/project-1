@@ -1,0 +1,3 @@
+0 Manque Potassium
+1 Manque Azote
+2 Manque Phosphore
